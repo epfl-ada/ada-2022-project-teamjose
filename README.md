@@ -8,3 +8,14 @@ The CoronaVirus pandemic had a huge impact on all our lives. While we were all i
 # Research Questions
 What types of mental health issues affected the people the most? What were the main reasons for such rise in illness (isolation, unemployement, missing a loved one ...)?
 What means of entertainment were used to overcome such problems? Did the people prefer more relaxing entertainment types like watching television, more physically challenging activities (jogging or home workout) or intellectually challenging diversions like reading or playing video games?
+
+# Proposed additional datasets :
+We planned to use several datasets. Among the datasets that were not proposed, we are planning to directly extract the pageviews of Wikipedia pages of several topics of interests (different mental health issues, video games, sports, entertainments ...) during the lockdown period (as defined on the timeline provided). The data are extracted monthly on the "Pageviews Analysis" API.
+
+# Methods
+To evaluate what where the most common mental health issues or most popular entertainment means, we will look at the searches done online on these topics (for example pageviews). We will plot the number of pageviews as well as running some statistical experiments such as correlation and independance tests between the rise of mental health issues and entertainment means to see if the rise in entertainment like video games is linked to any type of rise in mental health issues.
+
+# Proposed timeline
+
+
+# Organisation within the team
