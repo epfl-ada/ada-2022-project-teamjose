@@ -10,3 +10,14 @@ The CoronaVirus pandemic had a huge impact on all our lives. While we were all i
 What types of mental health issues affected the people the most? What were the main reasons for such rise in illness (isolation, unemployment, missing a loved one ...)?
 What means of entertainment were used to overcome such problems?
 Did the people prefer more relaxing entertainment types like watching television, more physically challenging activities (jogging or home workout) or intellectually challenging diversions like reading or playing video games?
+
+# Proposed additional datasets
+
+
+# Methods
+
+# Proposed Timeline
+
+
+# Organization within the team
+
