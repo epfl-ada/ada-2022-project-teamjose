@@ -2,11 +2,14 @@
 
 # Abstract
 
-Has the CoronaVirus pandemic made the people ecologically more aware?
-The CoronaVirus pandemic had a huge impact on all our lives. While everyone was isolated at home, it was clear that people started to care more about certain topics such as the well being of their loved ones or ecology. With the closure of most of non-essential industries and factories, the sky and the waters became bluer and the fields more green, and we saw the return of a lot of wild animals that were once kicked out by humans to their natural habitats. Hence, the people started to realize the impact of our way of life on the well-being of our planet. Therefore, it would be very interesting to see if the population became more eco-friendly, either by searching more topics related to the environment or by taking drastic actions on their ways of life like choosing different means of transportations that do not pollute as much as the car or airplane.
+Has the CoronaVirus pandemic change the way people like to spend their free time?
+The CoronaVirus pandemic had a huge impact on all our lives. While everyone was isolated at home, it was clear that people had to change their ways of life as most of our daily outdoor hobbies became forbidden or restricted. Indeed, some public places like gyms or nightclubs had to close their doors and gatherings were extremely limited, making team sports such as football almost impossible to play. Therefore, the people had to find new ways to entertain themselves alone at home such as playing new video games or watching new content on the internet (netflix, twitch ...). Hence it would be interesting to study what entertainment genres had an increase in popularity during the lockdown and if these new found hobbies stayed relevant in the eyes of the people even after the lockdown.
 
 # Research Questions
-Has the CoronaVirus pandemic made the people ecologically more aware? Did we notice a reduction in the use of means of transportations that are very pollutant such as the car or airplane even after the lockdown? Has the number of searches related to the environment and nature increased during the period of the pandemic? What parts of the world witnessed an increase in ecofriendly awareness?
+
+How did the entertainment means change during the CoronaVirus pandemic lockdown compared to before? Did the genres, consumption levels and nature of entertainment change? Were these changes only valid during the lockdown or did we witness a continuation in the new means of entertainments even after the end of the lockdown?
+
+
 # Proposed additional datasets
 
 
