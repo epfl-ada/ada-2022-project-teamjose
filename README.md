@@ -12,6 +12,7 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
 
 # Proposed additional datasets
 
+* Mobile application downloads 2019-2021
 * Google trends
 * Wikipedia Api
 * Wikidata
