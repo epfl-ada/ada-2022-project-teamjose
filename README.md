@@ -27,6 +27,11 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
     Scraped using RSelenium and Rvest
 
 # Methods
+Step 1: Dataset Collection and Construction  
+Step 2: Dataset Preprocessing and Organization  
+Step 3: General preliminary analysis  
+[...]  
+Step -1: Github site building and Datastory redaction.
 
 # Proposed Timeline
 
