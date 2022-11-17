@@ -12,6 +12,19 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
 
 # Proposed additional datasets
 
+* Google trends
+* Wikipedia Api
+* Wikidata
+* Steam
+* Twitch : Top games on Twitch 2016 - 2021, 
+  In this dataset we can find the top 200 games on twitch for each month from 2016 to present day.
+  The data is divided into two datasets:
+    - A bigger file - Twitchgamedata in which we find 200 obeservations per month representing the top games or categories on twitch for that month.
+    - A smaller file - Twitchglobaldata in which there is one obeservation per month that contains the general statistics about viewership on twitch.  
+  SOURCE  
+    www.sullygnome.com  
+  COLLECTION METHODOLOGY  
+    Scraped using RSelenium and Rvest
 
 # Methods
 
