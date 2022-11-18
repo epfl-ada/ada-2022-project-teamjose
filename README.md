@@ -16,17 +16,18 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
   
   SOURCE 
   https://www.businessofapps.com/data/app-statistics/
-* Global Mobility Report : dataset containing the mobility to certain places from february to august 2020 relative to a baseline pre-covid (2019). We can look at the     residential percentage to show that people had to stay at home during the lockdown.
+
 * Top 50 Bestselling Novels 2009-2020 of Amazon,
   This dataset contains the name, genre (Fiction or Non Fiction) and number of reviews of the top 50 best selling books on Amazon between 2009 and 2020.
   
-  SOURCE : https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
+  SOURCE  
+  https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
   
 * Google trends  
     Non-official API allowing us to query the Google Trends database. We can find the frequency of research terms within a certain period of time, while filtering by language, theme, result type, geolocation.
 * Wikipedia Api  
   Api allowing us to compare the number of pageviews of different wikipedia pages. We will compare the number of visits of different categories as well as different     topics among a same category (ie different video games genres)
-* Wikidata
+
 * Steam DB  
     A database of the number of people logged in steam over time. We can also research the number of players of a certain game over time. This allows us to compare videogames players over time by category.
 * Twitch : Top games on Twitch 2016 - 2021  
@@ -40,11 +41,15 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
     Scraped using RSelenium and Rvest
 
 # Methods
-Step 1: Dataset Collection and Construction  
+*DATA*  
+Step 1: Dataset Collection and Construction   
 Step 2: Dataset Preprocessing and Organization  
+*ANALYSIS*  
 Step 3: General preliminary analysis  
 Step 4: Defining the analysis questions regarding the Datastory  
-Step 5: Perform the statistical analysis and regressions to answer the questions  
+Step 5: Perform the statistical analysis and regressions to answer the questions 
+  (Difference-in-differences and Distance from normality)  
+*VISUALIZATION/STORY-TELLING*  
 Step 6: Find the best way to visualize and present the data  
 Step 7: Github site building and Datastory redaction  
 Step 8: Make everything nice and aesthetic  
