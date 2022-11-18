@@ -13,9 +13,20 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
 
 # Proposed additional datasets
 
-* Mobile application downloads 2019-2021
+* Mobile application downloads 2019-2021,
+  This Dataset contains the number of downloads of applications and games from 2015 to 2021 divided into quarters
+  
+  SOURCE 
+  https://www.businessofapps.com/data/app-statistics/
+* Global Mobility Report : dataset containing the mobility to certain places from february to august 2020 relative to a baseline pre-covid (2019). We can look at the     residential percentage to show that people had to stay at home during the lockdown.
+* Top 50 Bestselling Novels 2009-2020 of Amazon,
+  This dataset contains the name, genre (Fiction or Non Fiction) and number of reviews of the top 50 best selling books on Amazon between 2009 and 2020.
+  
+  SOURCE : https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
+  
 * Google trends
 * Wikipedia Api
+  Api allowing us to compare the number of pageviews of different wikipedia pages. We will compare the number of visits of different categories as well as different     topics among a same category (ie different video games genres)
 * Wikidata
 * Steam
 * Twitch : Top games on Twitch 2016 - 2021, 
