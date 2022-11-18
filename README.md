@@ -22,10 +22,12 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
   SOURCE : https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
   
 * Google trends
+    Non-official API allowing us to query the Google Trends database. We can find the frequency of research terms within a certain period of time, while filtering by language, theme, result type, geolocation.
 * Wikipedia Api
   Api allowing us to compare the number of pageviews of different wikipedia pages. We will compare the number of visits of different categories as well as different     topics among a same category (ie different video games genres)
 * Wikidata
-* Steam
+* Steam DB
+    A database of the number of people logged in steam over time. We can also research the number of players of a certain game over time. This allows us to compare videogames players over time by category.
 * Twitch : Top games on Twitch 2016 - 2021, 
   In this dataset we can find the top 200 games on twitch for each month from 2016 to present day.
   The data is divided into two datasets:
@@ -40,8 +42,11 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
 Step 1: Dataset Collection and Construction  
 Step 2: Dataset Preprocessing and Organization  
 Step 3: General preliminary analysis  
-[...]  
-Step -1: Github site building and Datastory redaction.
+Step 4: Defining the analysis questions regarding the Datastory
+Step 5: Perform the statistical analysis and regressions to answer the questions
+Step 6: Find the best way to visualize and present the data
+Step 7: Github site building and Datastory redaction.
+Step 8: Make everything nice and aesthetic
 
 # Proposed Timeline
 
@@ -54,7 +59,19 @@ Step -1: Github site building and Datastory redaction.
 * 23.12.22 Milestone 3 deadline
 
 # Organization within the team
-* ?: Teammate 1
-* Datastory: Teammate 2
-* Website: Teammate 3 and 4
-* Steps: Teammate 1,2,3,4
+* Analysis: 
+    - Wikidata : Shadya, José
+    - G-Trends : Robin, Shadya
+    - Twitch : José, Joe
+    - Amazon Best sellers : Joe, Robin
+    - SteamDB : José, Robin
+    - Wikipedia API : Shadya, Joe
+    
+    Then for the analysis across the datasets, it's gonna be a collaborative work with the whole team.
+        
+* Datastory: The big ideas will be better discussed with the whole team.
+        Robin and Shadya will then prepare the final storyline, plots, UX etc.
+        
+* Website: The design of the website will be discussed with the whole team. José and Joe will be in charge of the implementation.
+    P.S. As we never had to build such a website before, this repartition of task will probably change.
+
