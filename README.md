@@ -1,4 +1,4 @@
-# ada-2022-project-teamjose
+# Entertainment evolution during the COVID crisis
 
 Notebook: analyses/Project_p2_final.ipynb
 
