@@ -23,14 +23,14 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
   
   SOURCE : https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
   
-* Google trends
+* Google trends  
     Non-official API allowing us to query the Google Trends database. We can find the frequency of research terms within a certain period of time, while filtering by language, theme, result type, geolocation.
-* Wikipedia Api
+* Wikipedia Api  
   Api allowing us to compare the number of pageviews of different wikipedia pages. We will compare the number of visits of different categories as well as different     topics among a same category (ie different video games genres)
 * Wikidata
-* Steam DB
+* Steam DB  
     A database of the number of people logged in steam over time. We can also research the number of players of a certain game over time. This allows us to compare videogames players over time by category.
-* Twitch : Top games on Twitch 2016 - 2021, 
+* Twitch : Top games on Twitch 2016 - 2021  
   In this dataset we can find the top 200 games on twitch for each month from 2016 to present day.
   The data is divided into two datasets:
     - A bigger file - Twitchgamedata in which we find 200 obeservations per month representing the top games or categories on twitch for that month.
@@ -44,11 +44,11 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
 Step 1: Dataset Collection and Construction  
 Step 2: Dataset Preprocessing and Organization  
 Step 3: General preliminary analysis  
-Step 4: Defining the analysis questions regarding the Datastory
-Step 5: Perform the statistical analysis and regressions to answer the questions
-Step 6: Find the best way to visualize and present the data
-Step 7: Github site building and Datastory redaction.
-Step 8: Make everything nice and aesthetic
+Step 4: Defining the analysis questions regarding the Datastory  
+Step 5: Perform the statistical analysis and regressions to answer the questions  
+Step 6: Find the best way to visualize and present the data  
+Step 7: Github site building and Datastory redaction  
+Step 8: Make everything nice and aesthetic  
 
 # Proposed Timeline
 
