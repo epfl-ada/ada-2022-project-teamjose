@@ -15,17 +15,22 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
   
   SOURCE 
   https://www.businessofapps.com/data/app-statistics/
-* Global Mobility Report : dataset containing the mobility to certain places from february to august 2020 relative to a baseline pre-covid (2019). We can look at the     residential percentage to show that people had to stay at home during the lockdown.
+
 * Top 50 Bestselling Novels 2009-2020 of Amazon,
   This dataset contains the name, genre (Fiction or Non Fiction) and number of reviews of the top 50 best selling books on Amazon between 2009 and 2020.
   
-  SOURCE : https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
+  SOURCE    
+  https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020?resource=download
   
-* Google trends
-* Wikipedia Api
+* Google trends was used to analyze the popularity of search queries across various regions and languages
+
+* Wikipedia Api  
   Api allowing us to compare the number of pageviews of different wikipedia pages. We will compare the number of visits of different categories as well as different     topics among a same category (ie different video games genres)
-* Wikidata
-* Steam
+
+* Steam database : Steam is a video game digital distribution service and storefront by Valve. We used this dataset to analyze trends in played video-games, from sale to gaming time.  
+  SOURCE   
+  https://steamdb.info/
+  
 * Twitch : Top games on Twitch 2016 - 2021, 
   In this dataset we can find the top 200 games on twitch for each month from 2016 to present day.
   The data is divided into two datasets:
@@ -37,11 +42,17 @@ How did the entertainment means change during the CoronaVirus pandemic lockdown 
     Scraped using RSelenium and Rvest
 
 # Methods
+*DATA*  
 Step 1: Dataset Collection and Construction  
-Step 2: Dataset Preprocessing and Organization  
-Step 3: General preliminary analysis  
-[...]  
-Step -1: Github site building and Datastory redaction.
+Step 2: Dataset Preprocessing and Organization    
+Step 3: General preliminary analysis   
+Step 4: Full data collection and processing  
+*ANALYSIS*  
+Step 5: Difference-in-differences  
+Step 6: Distance from Normality  
+*VISUALIZATION/STORY-TELLING*   
+Step 7: Result Visualization  
+Step 8: Github site building and Datastory redaction
 
 # Proposed Timeline
 
@@ -54,7 +65,7 @@ Step -1: Github site building and Datastory redaction.
 * 23.12.22 Milestone 3 deadline
 
 # Organization within the team
-* ?: Teammate 1
-* Datastory: Teammate 2
-* Website: Teammate 3 and 4
-* Steps: Teammate 1,2,3,4
+* Data visualization: Robin
+* Datastory: Shadya
+* Website: Joe and José
+* Steps: all
