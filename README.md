@@ -1,6 +1,7 @@
 # Entertainment evolution during the COVID crisis
 
-Notebook: analyses/Project_p2_final.ipynb
+Notebook: analyses/Milestone3.ipynb
+Datastory: [rob789.github.io/datastory_entertainment](https://rob789.github.io/datastory_entertainment/)
 
 # Abstract
 In March of 2020, the Covid-19 outbreak was declared a global pandemic by the World health Organization. Worldwide, people were then recommended or obliged to stay home in order to limit the spread of the virus. This unusual situation left people with limited options for social and work activity, causing many to turn to the Internet for work, education and entertainment. As explained in the "Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis" paper, the volume and nature of Wikipedia article research was affected by the lockdown waves. Notable findings were that "the sharp decrease in human mobility induced by COVID-19-related non-pharmaceutical interventions has boosted the volume of information seeking on Wikipedia and has changed the nature of the information sought, even considering non-COVID-19-related articles". After mobility restrictions were lifted the volume of research returned to the baseline for most topics, but not all. Topics that experienced persistent increases are mostly related to entertainment/culture. We decided to dig deeper, to find whether isolation situation changed the nature of media consumption (i.e., video-game/movie/book genres), and if those changes are persistent with mobility restrictions.
