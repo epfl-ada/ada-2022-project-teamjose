@@ -63,8 +63,7 @@ order_topics = [
     'Culture.Media.Software', 'STEM.Computing',
     'Geography.Regions.Europe.Western Europe',
     'History and Society.Education',
-    'Geography.Regions.Europe.Southern Europe',
-    'Mental.Health'
+    'Geography.Regions.Europe.Southern Europe'
 ]
 
 colors_z = [(5, "white", "Persistent Increase"),

@@ -75,8 +75,7 @@ topics = ['Culture.Biography.Biography*',
           'STEM.Medicine & Health',
           'STEM.Physics',
           'STEM.Space',
-          'STEM.Technology',
-          'Mental.Health']
+          'STEM.Technology']
 
 interventions_helper = {
     '1st case': '1',
