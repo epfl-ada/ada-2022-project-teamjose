@@ -72,14 +72,13 @@ Step 8: Make everything nice and aesthetic
     - G-Trends : Robin, Shadya
     - Twitch : José, Joe
     - Amazon Best sellers : Joe, Robin
-    - SteamDB : José, Robin
+    - SteamDB : Robin
     - Wikipedia API : Shadya, Joe
     
     Then for the analysis across the datasets, it's gonna be a collaborative work with the whole team.
         
-* Datastory: The big ideas will be better discussed with the whole team.
-        Robin and Shadya will then prepare the final storyline, plots, UX etc.
+* Datastory: The structure of the datastory was prepared by Shadya.
+        Each member of the team wrote the datastory and prepared the plots for the dataset that they analysed.
         
-* Website: The design of the website will be discussed with the whole team. José and Joe will be in charge of the implementation.
-    P.S. As we never had to build such a website before, this repartition of task will probably change.
+* Website: The structure of the website was implemented by Robin. Each member of the team was then in charge of add his part of the datastory to the website.
 
